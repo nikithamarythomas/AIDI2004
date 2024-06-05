@@ -29,6 +29,7 @@ pip install scikit-learn numpy matplotlib jupyter
 git clone https://github.com/nikithamarythomas/AIDI2004.git
 ```
 Main branch : Logistic Regression
+<br>
 Branch 'branch' : SVM
 
 Launch the notebook in your preferred IDE to use the models.
